@@ -1,0 +1,14 @@
+Z:\Daniel\Code\C#\MassDownloader\MassDownloader\bin\Debug\MassDownloader.exe.config
+Z:\Daniel\Code\C#\MassDownloader\MassDownloader\bin\Debug\MassDownloader.exe
+Z:\Daniel\Code\C#\MassDownloader\MassDownloader\bin\Debug\MassDownloader.pdb
+Z:\Daniel\Code\C#\MassDownloader\MassDownloader\obj\Debug\MassDownloader.csprojAssemblyReference.cache
+Z:\Daniel\Code\C#\MassDownloader\MassDownloader\obj\Debug\MassDownloader.csproj.CoreCompileInputs.cache
+Z:\Daniel\Code\C#\MassDownloader\MassDownloader\obj\Debug\MassDownloader.exe
+Z:\Daniel\Code\C#\MassDownloader\MassDownloader\obj\Debug\MassDownloader.pdb
+Z:\Daniel\Code\CSharp\MassDownloader\MassDownloader\bin\Debug\MassDownloader.exe.config
+Z:\Daniel\Code\CSharp\MassDownloader\MassDownloader\bin\Debug\MassDownloader.exe
+Z:\Daniel\Code\CSharp\MassDownloader\MassDownloader\bin\Debug\MassDownloader.pdb
+Z:\Daniel\Code\CSharp\MassDownloader\MassDownloader\obj\Debug\MassDownloader.csprojAssemblyReference.cache
+Z:\Daniel\Code\CSharp\MassDownloader\MassDownloader\obj\Debug\MassDownloader.csproj.CoreCompileInputs.cache
+Z:\Daniel\Code\CSharp\MassDownloader\MassDownloader\obj\Debug\MassDownloader.exe
+Z:\Daniel\Code\CSharp\MassDownloader\MassDownloader\obj\Debug\MassDownloader.pdb
